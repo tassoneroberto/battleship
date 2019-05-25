@@ -2,3 +2,17 @@
 .DS_STORE
 res/.DS_STORE
 battleship/.DS_STORE
+battleship/BattleShip.class
+battleship/Computer.class
+battleship/Mappa.class
+battleship/Nave.class
+battleship/Posizione.class
+battleship/Report.class
+battleship/ui/FrameBattle.class
+battleship/ui/FrameBattle$GestoreTimer.class
+battleship/ui/FrameManageship.class
+battleship/ui/FrameSplashscreen.class
+battleship/ui/UIJPanelBG.class
+battleship/ui/UIManagePanel.class
+battleship/ui/UIMapPanel.class
+battleship/ui/UIStatPanel.class
