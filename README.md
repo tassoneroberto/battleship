@@ -1,4 +1,5 @@
 # Battleship
+![alt text](https://raw.githubusercontent.com/tassoneroberto/battleship/master/res/images/icon.png)
 
 ## Introduction
 
@@ -6,7 +7,7 @@ A Java implementation of the strategic game Battleship.
 
 https://en.wikipedia.org/wiki/Battleship_(game)
 
-This is one of my first projects. I realised it to learn coding in Java.
+This is one of my first projects. I realised it to learn the basics of Java.
 
 ## Installation
 
