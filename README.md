@@ -2,15 +2,18 @@
 ![alt text](https://raw.githubusercontent.com/tassoneroberto/battleship/master/res/images/icon.png)
 
 ## Introduction
-
 A Java implementation of the strategic game Battleship.
 
 https://en.wikipedia.org/wiki/Battleship_(game)
 
 This is one of my first projects. I realised it to learn the basics of Java.
 
-## Installation
+## Game Screens
+![](https://raw.githubusercontent.com/tassoneroberto/battleship/master/screenshots/screenshot1.png)
+![](https://raw.githubusercontent.com/tassoneroberto/battleship/master/screenshots/screenshot2.png)
+![](https://raw.githubusercontent.com/tassoneroberto/battleship/master/screenshots/screenshot3.png)
 
+## Installation
 Clone and change directory:
 ```
 git clone https://github.com/tassoneroberto/battleship.git
