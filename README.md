@@ -35,3 +35,8 @@ java battleship/BattleShip
 jar cfe BattleShip.jar battleship/BattleShip .
 java -jar BattleShip.jar
 ```
+
+## Authors
+
+Co-authored with:
+[Antonio Rachele](https://github.com/racheleantonio)
